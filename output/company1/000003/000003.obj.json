@@ -1,0 +1,47 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "92-242-1820",
+  "taxFormId" : "9928300",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0741502",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Baumbach-Daniel"
+    },
+    "address" : {
+      "line1" : "6799 McDermott Wells",
+      "city" : "Delmarland",
+      "region" : "OR",
+      "postalCode" : "85309"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "phillip.daugherty@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-47-7505",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Temple",
+      "last" : "Lemke"
+    },
+    "address" : {
+      "line1" : "990 Ziemann Point",
+      "city" : "Port Steven",
+      "region" : "RI",
+      "postalCode" : "82960"
+    },
+    "email" : "adeline.huel@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "805-42862-4",
+  "dateOfClosing" : "2025-01-19",
+  "grossProceeds" : 200,
+  "addressOrLegalDescription" : "addressOrLegalDescription",
+  "receivedOtherConsideration" : true,
+  "foreignPerson" : true,
+  "realEstateTax" : 300
+}
