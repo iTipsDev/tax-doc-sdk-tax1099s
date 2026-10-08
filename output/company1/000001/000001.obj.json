@@ -1,0 +1,61 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "10-102-9811",
+  "taxFormId" : "2664140",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0264922",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "O'Hara-Smith"
+    },
+    "address" : {
+      "line1" : "307 Boyer Island",
+      "city" : "Purdytown",
+      "region" : "AZ",
+      "postalCode" : "44836",
+      "unitType" : "Apt",
+      "unitNumber" : "045"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jordan.cole@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-47-6209",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Reda",
+      "middle" : "Jon",
+      "last" : "Gleichner"
+    },
+    "businessName" : {
+      "name1" : "Dietrich Inc"
+    },
+    "address" : {
+      "line1" : "813 Shields Estate",
+      "city" : "New Clay",
+      "region" : "NJ",
+      "postalCode" : "78798",
+      "unitType" : "Apt",
+      "unitNumber" : "107"
+    },
+    "email" : "al.ferry@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "215-86277-0",
+  "dateOfClosing" : "2026-12-01",
+  "grossProceeds" : 200,
+  "cashProceeds" : 300,
+  "digitalAssetProceeds" : 400,
+  "addressOrLegalDescription" : "8681 Prosacco Centers",
+  "realEstateTax" : 500,
+  "receivedOtherConsideration" : true,
+  "foreignPerson" : true,
+  "digitalAssetCode" : "ZZLV65C4V",
+  "digitalAssetName" : "ZZYZX",
+  "units" : "8803",
+  "digitalAssetDateReceived" : "2026-10-19"
+}

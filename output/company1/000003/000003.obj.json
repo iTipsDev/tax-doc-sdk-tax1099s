@@ -1,0 +1,61 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "09-564-8725",
+  "taxFormId" : "2487389",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0264922",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "O'Hara-Smith"
+    },
+    "address" : {
+      "line1" : "307 Boyer Island",
+      "city" : "Purdytown",
+      "region" : "AZ",
+      "postalCode" : "44836",
+      "unitType" : "Apt",
+      "unitNumber" : "045"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jordan.cole@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-70-2900",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Tory",
+      "middle" : "Orlando",
+      "last" : "Rice"
+    },
+    "businessName" : {
+      "name1" : "Watsica, Schultz and Murray"
+    },
+    "address" : {
+      "line1" : "84298 Sung Valley",
+      "city" : "East Derekshire",
+      "region" : "MA",
+      "postalCode" : "76373",
+      "unitType" : "Apt",
+      "unitNumber" : "595"
+    },
+    "email" : "maragret.ferry@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "754-80383-9",
+  "dateOfClosing" : "2026-08-27",
+  "grossProceeds" : 200,
+  "cashProceeds" : 300,
+  "digitalAssetProceeds" : 400,
+  "addressOrLegalDescription" : "97595 Skiles Key",
+  "realEstateTax" : 500,
+  "receivedOtherConsideration" : true,
+  "foreignPerson" : true,
+  "digitalAssetCode" : "ZZLV65C4V",
+  "digitalAssetName" : "ZZYZX",
+  "units" : "515",
+  "digitalAssetDateReceived" : "2026-07-26"
+}

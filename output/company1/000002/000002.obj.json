@@ -1,0 +1,61 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "77-148-1948",
+  "taxFormId" : "6428579",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0264922",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "O'Hara-Smith"
+    },
+    "address" : {
+      "line1" : "307 Boyer Island",
+      "city" : "Purdytown",
+      "region" : "AZ",
+      "postalCode" : "44836",
+      "unitType" : "Apt",
+      "unitNumber" : "045"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "jordan.cole@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-71-3532",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Normand",
+      "middle" : "Cruz",
+      "last" : "Johns"
+    },
+    "businessName" : {
+      "name1" : "Pfannerstill, Kertzmann and Luettgen"
+    },
+    "address" : {
+      "line1" : "0693 Schmitt Plains",
+      "city" : "North Cindy",
+      "region" : "TN",
+      "postalCode" : "51900",
+      "unitType" : "Apt",
+      "unitNumber" : "817"
+    },
+    "email" : "arnold.cummings@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "153-19511-8",
+  "dateOfClosing" : "2026-02-04",
+  "grossProceeds" : 200,
+  "cashProceeds" : 300,
+  "digitalAssetProceeds" : 400,
+  "addressOrLegalDescription" : "8045 Hiram Motorway",
+  "realEstateTax" : 500,
+  "receivedOtherConsideration" : true,
+  "foreignPerson" : true,
+  "digitalAssetCode" : "ZZLV65C4V",
+  "digitalAssetName" : "ZZYZX",
+  "units" : "7632",
+  "digitalAssetDateReceived" : "2026-12-20"
+}
